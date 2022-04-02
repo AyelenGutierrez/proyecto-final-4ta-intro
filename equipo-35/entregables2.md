@@ -6,8 +6,9 @@
 - El título de su proyecto: ayuda a padres primerizos 
 - La lista de recursos y referencias que han usado:
 - https://svgsilh.com/es/
-https://pixabay.com/es/
-https://codepen.io/
+- https://pixabay.com/es/
+- https://codepen.io/
+
 - Graben un video de 5-min usando el modelo “Entrega 2 Proyecto Final Patrones Hermosos”. Utilicen el template de diapositivas en nuestra plataforma, que está publicado en la plataforma, para grabar el video. Subanlo a YouTube o Vimeo. Pongan la liga del vídeo aquí: 
 - https://www.youtube.com/watch?v=Ysd-hl5EEqw&t=8s
 - Escriban las preguntas/dudas que tienen sobre su proyecto y/o su código para las moderadoras. Cuando las moderadoras les escribirán con retroalimentación en el foro, incluirán sugerencias a estas preguntas. Añadan sus preguntas aquí:
